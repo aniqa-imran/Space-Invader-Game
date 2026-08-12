@@ -31,17 +31,10 @@ Ensure you have **Python 3.8+** installed on your system.
 
 ### 2. Install Pygame
 Open your terminal or command prompt and run:
-```bash
 pip install pygame
-🚀 How to Run
-Clone or download this repository:
 
-Bash
-git clone [https://github.com/your-username/space-invaders-pygame.git](https://github.com/your-username/space-invaders-pygame.git)
-cd space-invaders-pygame
 Run the main script:
 
-Bash
 python main.py
 📁 Project Structure
 Plaintext
